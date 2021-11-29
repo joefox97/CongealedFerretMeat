@@ -130,7 +130,7 @@ true		</var>
 				<integer min="0" max="255" />
 			</rules>
 			<gui indent="" />
-15		</var>
+0		</var>
 		<var name="PickDance" init="0" list="" hidden="" alias="" cline="" link="" user_dv="true" >
 			<lvs/>
 			<rules>
@@ -169,7 +169,7 @@ true		</var>
 				<bool/>
 			</rules>
 			<gui indent="" />
-true		</var>
+false		</var>
 		<var list="" name="FM" init="false" hidden="" alias="" cline="" link="" >
 			<lvs/>
 			<rules>
@@ -3728,7 +3728,7 @@ c3NhZ2Vz -->
 					<gui indent="0" />
 				</ev>
 				<gui>
-					<window col_widths="30,20,20,,,,,,,100,0,410,221," />
+					<window col_widths="30,20,20,,,,,,,100,1006,410,221," />
 				</gui>
 			</evs>
 			<triggers>
@@ -3752,7 +3752,7 @@ c3NhZ2Vz -->
 					<!-- ***b64***SWYgZXhwZXJpZWluZ2luZyBpc3N1ZXMsIGNhbmNlbCBhbGwgdm9pY2VsaW5lcy4= -->
 					<params>
 						<param ix="16" bx="-1" ax="-1" ty="6" vt="2" name="" >techDifficulties</param>
-						<param ix="454" ty="12" name="" >End</param>
+						<param ix="532" ty="12" name="" >End</param>
 					</params>
 					<meta/>
 					<gui indent="0" />
@@ -3766,7 +3766,7 @@ c3NhZ2Vz -->
 					<params>
 						<param ty="6" vt="3" ix="4" bx="-1" ax="-1" name="" >var2 VoiceLines</param>
 						<param ty="3" name="" >1</param>
-						<param ix="18" ty="12" name="" >ChristmasEve</param>
+						<param ix="19" ty="12" name="" >ChristmasEve</param>
 					</params>
 					<meta/>
 					<gui indent="0" />
@@ -3775,7 +3775,7 @@ c3NhZ2Vz -->
 					<params>
 						<param ty="6" vt="3" ix="4" bx="-1" ax="-1" name="" >var2 VoiceLines</param>
 						<param ty="3" name="" >2</param>
-						<param ix="51" ty="12" name="" >FelizNavidad</param>
+						<param ix="58" ty="12" name="" >FelizNavidad</param>
 					</params>
 					<meta/>
 					<gui indent="0" />
@@ -3784,7 +3784,7 @@ c3NhZ2Vz -->
 					<params>
 						<param ty="6" vt="3" ix="4" bx="-1" ax="-1" name="" >var2 VoiceLines</param>
 						<param ty="3" name="" >3</param>
-						<param ix="82" ty="12" name="" >JingleBells</param>
+						<param ix="94" ty="12" name="" >JingleBells</param>
 					</params>
 					<meta/>
 					<gui indent="0" />
@@ -3793,7 +3793,7 @@ c3NhZ2Vz -->
 					<params>
 						<param ty="6" vt="3" ix="4" bx="-1" ax="-1" name="" >var2 VoiceLines</param>
 						<param ty="3" name="" >4</param>
-						<param ix="113" ty="12" name="" >MadRussians</param>
+						<param ix="129" ty="12" name="" >MadRussians</param>
 					</params>
 					<meta/>
 					<gui indent="0" />
@@ -3802,7 +3802,7 @@ c3NhZ2Vz -->
 					<params>
 						<param ty="6" vt="3" ix="4" bx="-1" ax="-1" name="" >var2 VoiceLines</param>
 						<param ty="3" name="" >5</param>
-						<param ix="144" ty="12" name="" >HaveYourself</param>
+						<param ix="165" ty="12" name="" >HaveYourself</param>
 					</params>
 					<meta/>
 					<gui indent="0" />
@@ -3811,7 +3811,7 @@ c3NhZ2Vz -->
 					<params>
 						<param ty="6" vt="3" ix="4" bx="-1" ax="-1" name="" >var2 VoiceLines</param>
 						<param ty="3" name="" >6</param>
-						<param ix="180" ty="12" name="" >ParadeWooden</param>
+						<param ix="206" ty="12" name="" >ParadeWooden</param>
 					</params>
 					<meta/>
 					<gui indent="0" />
@@ -3820,7 +3820,7 @@ c3NhZ2Vz -->
 					<params>
 						<param ty="6" vt="3" ix="4" bx="-1" ax="-1" name="" >var2 VoiceLines</param>
 						<param ty="3" name="" >7</param>
-						<param ix="216" ty="12" name="" >WinterWonderland</param>
+						<param ix="246" ty="12" name="" >WinterWonderland</param>
 					</params>
 					<meta/>
 					<gui indent="0" />
@@ -3829,7 +3829,7 @@ c3NhZ2Vz -->
 					<params>
 						<param ty="6" vt="3" ix="4" bx="-1" ax="-1" name="" >var2 VoiceLines</param>
 						<param ty="3" name="" >8</param>
-						<param ix="245" ty="12" name="" >WizardsWinter</param>
+						<param ix="288" ty="12" name="" >WizardsWinter</param>
 					</params>
 					<meta/>
 					<gui indent="0" />
@@ -3838,7 +3838,7 @@ c3NhZ2Vz -->
 					<params>
 						<param ty="6" vt="3" ix="4" bx="-1" ax="-1" name="" >var2 VoiceLines</param>
 						<param ty="3" name="" >9</param>
-						<param ix="274" ty="12" name="" >SleighRide</param>
+						<param ix="323" ty="12" name="" >SleighRide</param>
 					</params>
 					<meta/>
 					<gui indent="0" />
@@ -3856,7 +3856,7 @@ c3NhZ2Vz -->
 					<params>
 						<param ty="6" vt="3" ix="4" bx="-1" ax="-1" name="" >var2 VoiceLines</param>
 						<param ty="3" name="" >11</param>
-						<param ix="447" ty="12" name="" >Shutdown</param>
+						<param ix="520" ty="12" name="" >Shutdown</param>
 					</params>
 					<meta/>
 					<gui indent="0" />
@@ -3865,7 +3865,7 @@ c3NhZ2Vz -->
 					<params>
 						<param ty="6" vt="3" ix="4" bx="-1" ax="-1" name="" >var2 VoiceLines</param>
 						<param ty="3" name="" >12</param>
-						<param ix="297" ty="12" name="" >ChristmasStarting</param>
+						<param ix="351" ty="12" name="" >ChristmasStarting</param>
 					</params>
 					<meta/>
 					<gui indent="0" />
@@ -3874,7 +3874,7 @@ c3NhZ2Vz -->
 					<params>
 						<param ty="6" vt="3" ix="4" bx="-1" ax="-1" name="" >var2 VoiceLines</param>
 						<param ty="3" name="" >13</param>
-						<param ix="342" ty="12" name="" >AllIWantForXmas</param>
+						<param ix="403" ty="12" name="" >AllIWantForXmas</param>
 					</params>
 					<meta/>
 					<gui indent="0" />
@@ -3883,7 +3883,7 @@ c3NhZ2Vz -->
 					<params>
 						<param ty="6" vt="3" ix="4" bx="-1" ax="-1" name="" >var2 VoiceLines</param>
 						<param ty="3" name="" >14</param>
-						<param ix="368" ty="12" name="" >WeWishTheMerriest</param>
+						<param ix="431" ty="12" name="" >WeWishTheMerriest</param>
 					</params>
 					<meta/>
 					<gui indent="0" />
@@ -3892,7 +3892,7 @@ c3NhZ2Vz -->
 					<params>
 						<param ty="6" vt="3" ix="4" bx="-1" ax="-1" name="" >var2 VoiceLines</param>
 						<param ty="3" name="" >15</param>
-						<param ix="404" ty="12" name="" >TheChristmasTree</param>
+						<param ix="471" ty="12" name="" >TheChristmasTree</param>
 					</params>
 					<meta/>
 					<gui indent="0" />
@@ -3900,8 +3900,13 @@ c3NhZ2Vz -->
 				<ev name="Goto" cline="" ix="9" dx="0" >
 					<!-- ***b64***V3JvbmcgbnVtYmVyPyBKdXN0IGdvdG8gZW5kIC0gY291bGQgY2hhbmdlIHRvIGFkdmFuY2U= -->
 					<params>
-						<param ix="454" ty="12" name="" >End</param>
+						<param ix="532" ty="12" name="" >End</param>
 					</params>
+					<meta/>
+					<gui indent="0" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="0" />
 				</ev>
@@ -3931,8 +3936,13 @@ c3NhZ2Vz -->
 					<!-- ***b64***U2tpcHMgcGxheWJhY2sgaWYgdmFyaWFibGUgdHJ1ZQ== -->
 					<params>
 						<param ix="130" bx="-1" ax="-1" ty="6" vt="2" name="" >disableVoicelines</param>
-						<param ix="451" ty="12" name="" >SkipVL</param>
+						<param ix="524" ty="12" name="" >SkipVL</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -3946,7 +3956,7 @@ c3NhZ2Vz -->
 				<ev name="If Off" ix="12" vn="Label" cline="" gid="" >
 					<params>
 						<param ix="29" bx="-1" ax="-1" ty="6" vt="2" name="" >weatherflag</param>
-						<param ix="27" ty="12" name="" >ChristmasEveLn1</param>
+						<param ix="30" ty="12" name="" >ChristmasEveLn1</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -3969,8 +3979,13 @@ c3NhZ2Vz -->
 				</ev>
 				<ev name="Goto" ix="9" cline="" >
 					<params>
-						<param ix="41" ty="12" name="" >ChristmasEveAdvance</param>
+						<param ix="48" ty="12" name="" >ChristmasEveAdvance</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -3996,6 +4011,11 @@ c3NhZ2Vz -->
 					<meta/>
 					<gui indent="1" />
 				</ev>
+				<ev name="" ix="-1" cline="" >
+					<params/>
+					<meta/>
+					<gui indent="1" />
+				</ev>
 				<ev name="Get Status" ix="35" cline="" dv="port2" dx="2" lb="ChristmasEveLn2" >
 					<params>
 						<param ty="16" name="" >R1</param>
@@ -4017,7 +4037,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="30" ty="12" name="" >ChristmasEveLn2</param>
+						<param ix="34" ty="12" name="" >ChristmasEveLn2</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -4046,6 +4066,11 @@ dA== -->
 					<meta/>
 					<gui indent="1" />
 				</ev>
+				<ev name="" ix="-1" cline="" >
+					<params/>
+					<meta/>
+					<gui indent="1" />
+				</ev>
 				<ev name="Get Status" ix="35" cline="" dv="port2" dx="2" lb="ChristmasEveLn3" >
 					<params>
 						<param ty="16" name="" >R1</param>
@@ -4067,7 +4092,15 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="36" ty="12" name="" >ChristmasEveLn3</param>
+						<param ix="41" ty="12" name="" >ChristmasEveLn3</param>
+					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="Delay" ix="51" cline="" eb="false" >
+					<!-- ***b64***QlJJRUYgUEFVU0U= -->
+					<params>
+						<param ty="13" name="" >00:00:00.15</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -4085,6 +4118,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" ix="-1" cline="" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -4108,14 +4146,14 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="41" ty="12" name="" >ChristmasEveAdvance</param>
+						<param ix="48" ty="12" name="" >ChristmasEveAdvance</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
 				</ev>
 				<ev name="Delay" ix="51" cline="" >
 					<params>
-						<param ty="13" name="" >00:00:03.00</param>
+						<param ty="13" name="" >00:00:02.00</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -4144,7 +4182,7 @@ dA== -->
 				</ev>
 				<ev name="Goto" ix="9" cline="" >
 					<params>
-						<param ix="454" ty="12" name="" >End</param>
+						<param ix="532" ty="12" name="" >End</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -4185,15 +4223,20 @@ dA== -->
 					<!-- ***b64***U2tpcHMgcGxheWJhY2sgaWYgdmFyaWFibGUgdHJ1ZQ== -->
 					<params>
 						<param ix="130" bx="-1" ax="-1" ty="6" vt="2" name="" >disableVoicelines</param>
-						<param ix="451" ty="12" name="" >SkipVL</param>
+						<param ix="524" ty="12" name="" >SkipVL</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
 				<ev name="If Off" ix="12" vn="Label" cline="" gid="" >
 					<params>
 						<param ix="29" bx="-1" ax="-1" ty="6" vt="2" name="" >weatherflag</param>
-						<param ix="59" ty="12" name="" >FelizNavidadLn1</param>
+						<param ix="68" ty="12" name="" >FelizNavidadLn1</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -4216,8 +4259,13 @@ dA== -->
 				</ev>
 				<ev name="Goto" ix="9" cline="" >
 					<params>
-						<param ix="72" ty="12" name="" >FelizNavidadAdvance</param>
+						<param ix="84" ty="12" name="" >FelizNavidadAdvance</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" ix="-1" cline="" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -4231,7 +4279,7 @@ dA== -->
 				</ev>
 				<ev name="Start" cline="" ix="14" >
 					<params>
-						<param ix="38" ty="10" name="" >BackgroundMusicSelector</param>
+						<param ix="38" ty="10" >BackgroundMusicSelector</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -4241,6 +4289,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" ix="-1" cline="" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -4265,7 +4318,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="62" ty="12" name="" >FelizNavidadLn2</param>
+						<param ix="72" ty="12" name="" >FelizNavidadLn2</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -4284,6 +4337,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" ix="-1" cline="" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -4307,7 +4365,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="67" ty="12" name="" >FelizNavidadLn3</param>
+						<param ix="78" ty="12" name="" >FelizNavidadLn3</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -4324,6 +4382,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -4347,21 +4410,14 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="72" ty="12" name="" >FelizNavidadAdvance</param>
-					</params>
-					<meta/>
-					<gui indent="1" />
-				</ev>
-				<ev name="Delay" ix="51" cline="" >
-					<params>
-						<param ty="13" name="" >00:00:03.00</param>
+						<param ix="84" ty="12" name="" >FelizNavidadAdvance</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
 				</ev>
 				<ev name="Start" cline="" ix="14" >
 					<params>
-						<param ix="39" ty="10" name="" >stopBackgroundMusic</param>
+						<param ix="39" ty="10" >stopBackgroundMusic</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -4369,7 +4425,7 @@ dA== -->
 				<ev name="Delay" ix="51" cline="" >
 					<!-- ***b64***TkVYVCBTT05HIERFTEFZ -->
 					<params>
-						<param ty="13" name="" >00:00:03.00</param>
+						<param ty="13" name="" >00:00:02.00</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -4383,12 +4439,17 @@ dA== -->
 				</ev>
 				<ev name="Goto" ix="9" cline="" >
 					<params>
-						<param ix="454" ty="12" name="" >End</param>
+						<param ix="532" ty="12" name="" >End</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
 				</ev>
 				<ev name="End If" cline="" ix="49" >
+					<params/>
+					<meta/>
+					<gui indent="0" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
 					<params/>
 					<meta/>
 					<gui indent="0" />
@@ -4424,15 +4485,20 @@ dA== -->
 					<!-- ***b64***U2tpcHMgcGxheWJhY2sgaWYgdmFyaWFibGUgdHJ1ZQ== -->
 					<params>
 						<param ix="130" bx="-1" ax="-1" ty="6" vt="2" name="" >disableVoicelines</param>
-						<param ix="451" ty="12" name="" >SkipVL</param>
+						<param ix="524" ty="12" name="" >SkipVL</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
 				<ev name="If Off" ix="12" vn="Label" cline="" gid="" >
 					<params>
 						<param ix="29" bx="-1" ax="-1" ty="6" vt="2" name="" >weatherflag</param>
-						<param ix="90" ty="12" name="" >JingleBellsLn1</param>
+						<param ix="104" ty="12" name="" >JingleBellsLn1</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -4457,8 +4523,13 @@ dA== -->
 				<ev name="Goto" ix="9" cline="" >
 					<!-- ***b64***R28gdG8gd2FpdCBhdCBhZHZhbmNlIHVudGlsIGl0IGZpbmlzaGVz -->
 					<params>
-						<param ix="103" ty="12" name="" >JingleBellsAdvance</param>
+						<param ix="120" ty="12" name="" >JingleBellsAdvance</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -4473,7 +4544,7 @@ dA== -->
 				</ev>
 				<ev name="Start" cline="" ix="14" >
 					<params>
-						<param ix="38" ty="10" name="" >BackgroundMusicSelector</param>
+						<param ix="38" ty="10" >BackgroundMusicSelector</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -4482,6 +4553,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -4506,7 +4582,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="93" ty="12" name="" >JingleBellsLn2</param>
+						<param ix="108" ty="12" name="" >JingleBellsLn2</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -4525,6 +4601,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -4549,7 +4630,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="98" ty="12" name="" >JingleBellsLn3</param>
+						<param ix="114" ty="12" name="" >JingleBellsLn3</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -4568,6 +4649,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -4591,21 +4677,14 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="103" ty="12" name="" >JingleBellsAdvance</param>
-					</params>
-					<meta/>
-					<gui indent="1" />
-				</ev>
-				<ev name="Delay" ix="51" cline="" >
-					<params>
-						<param ty="13" name="" >00:00:03.00</param>
+						<param ix="120" ty="12" name="" >JingleBellsAdvance</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
 				</ev>
 				<ev name="Start" cline="" ix="14" >
 					<params>
-						<param ix="39" ty="10" name="" >stopBackgroundMusic</param>
+						<param ix="39" ty="10" >stopBackgroundMusic</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -4613,7 +4692,7 @@ dA== -->
 				<ev name="Delay" ix="51" cline="" >
 					<!-- ***b64***TkVYVCBTT05HIERFTEFZ -->
 					<params>
-						<param ty="13" name="" >00:00:03.00</param>
+						<param ty="13" name="" >00:00:02.00</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -4627,7 +4706,7 @@ dA== -->
 				</ev>
 				<ev name="Goto" ix="9" cline="" >
 					<params>
-						<param ix="454" ty="12" name="" >End</param>
+						<param ix="532" ty="12" name="" >End</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -4668,15 +4747,20 @@ dA== -->
 					<!-- ***b64***U2tpcHMgcGxheWJhY2sgaWYgdmFyaWFibGUgdHJ1ZQ== -->
 					<params>
 						<param ix="130" bx="-1" ax="-1" ty="6" vt="2" name="" >disableVoicelines</param>
-						<param ix="451" ty="12" name="" >SkipVL</param>
+						<param ix="524" ty="12" name="" >SkipVL</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
 				<ev name="If Off" ix="12" vn="Label" cline="" gid="" >
 					<params>
 						<param ix="29" bx="-1" ax="-1" ty="6" vt="2" name="" >weatherflag</param>
-						<param ix="121" ty="12" name="" >MadRussiansLn1</param>
+						<param ix="139" ty="12" name="" >MadRussiansLn1</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -4701,8 +4785,13 @@ dA== -->
 				<ev name="Goto" ix="9" cline="" >
 					<!-- ***b64***R28gdG8gd2FpdCBhdCBhZHZhbmNlIHVudGlsIGl0IGZpbmlzaGVz -->
 					<params>
-						<param ix="134" ty="12" name="" >MadRussiansAdvance</param>
+						<param ix="156" ty="12" name="" >MadRussiansAdvance</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -4717,7 +4806,7 @@ dA== -->
 				</ev>
 				<ev name="Start" cline="" ix="14" >
 					<params>
-						<param ix="38" ty="10" name="" >BackgroundMusicSelector</param>
+						<param ix="38" ty="10" >BackgroundMusicSelector</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -4726,6 +4815,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -4750,7 +4844,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="124" ty="12" name="" >MadRussiansLn2</param>
+						<param ix="143" ty="12" name="" >MadRussiansLn2</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -4769,6 +4863,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -4793,7 +4892,15 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="129" ty="12" name="" >MadRussiansLn3</param>
+						<param ix="149" ty="12" name="" >MadRussiansLn3</param>
+					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="Delay" cline="" ix="51" eb="false" >
+					<!-- ***b64***RVhUUkEgU0hPUlQgUEFVU0U= -->
+					<params>
+						<param ty="13" name="" >00:00:00.10</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -4812,6 +4919,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -4835,14 +4947,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="134" ty="12" name="" >MadRussiansAdvance</param>
-					</params>
-					<meta/>
-					<gui indent="1" />
-				</ev>
-				<ev name="Delay" ix="51" cline="" >
-					<params>
-						<param ty="13" name="" >00:00:03.00</param>
+						<param ix="156" ty="12" name="" >MadRussiansAdvance</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -4857,7 +4962,7 @@ dA== -->
 				<ev name="Delay" ix="51" cline="" >
 					<!-- ***b64***TkVYVCBTT05HIERFTEFZ -->
 					<params>
-						<param ty="13" name="" >00:00:03.00</param>
+						<param ty="13" name="" >00:00:01.15</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -4871,7 +4976,7 @@ dA== -->
 				</ev>
 				<ev name="Goto" ix="9" cline="" >
 					<params>
-						<param ix="454" ty="12" name="" >End</param>
+						<param ix="532" ty="12" name="" >End</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -4895,7 +5000,7 @@ dA== -->
 					<meta/>
 					<gui indent="0" />
 				</ev>
-				<ev name="Delay" cline="" ix="51" eb="false" >
+				<ev name="Delay" cline="" ix="51" >
 					<!-- ***b64***MDA6MDI6MzUuMDg= -->
 					<params>
 						<param ty="13" name="" >00:02:35.08</param>
@@ -4908,11 +5013,16 @@ dA== -->
 					<meta/>
 					<gui indent="1" />
 				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
+					<meta/>
+					<gui indent="1" />
+				</ev>
 				<ev name="If On" cline="" ix="10" vn="Label" >
 					<!-- ***b64***U2tpcHMgcGxheWJhY2sgaWYgdmFyaWFibGUgdHJ1ZQ== -->
 					<params>
 						<param ix="130" bx="-1" ax="-1" ty="6" vt="2" name="" >disableVoicelines</param>
-						<param ix="451" ty="12" name="" >SkipVL</param>
+						<param ix="524" ty="12" name="" >SkipVL</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -4920,7 +5030,7 @@ dA== -->
 				<ev name="If Off" ix="12" vn="Label" cline="" gid="" >
 					<params>
 						<param ix="29" bx="-1" ax="-1" ty="6" vt="2" name="" >weatherflag</param>
-						<param ix="152" ty="12" name="" >HaveYourselfLn1</param>
+						<param ix="175" ty="12" name="" >HaveYourselfLn1</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -4945,8 +5055,13 @@ dA== -->
 				<ev name="Goto" ix="9" cline="" >
 					<!-- ***b64***R28gdG8gd2FpdCBhdCBhZHZhbmNlIHVudGlsIGl0IGZpbmlzaGVz -->
 					<params>
-						<param ix="170" ty="12" name="" >HaveYourselfAdvance</param>
+						<param ix="197" ty="12" name="" >HaveYourselfAdvance</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -4960,7 +5075,7 @@ dA== -->
 				</ev>
 				<ev name="Start" cline="" ix="14" >
 					<params>
-						<param ix="38" ty="10" name="" >BackgroundMusicSelector</param>
+						<param ix="38" ty="10" >BackgroundMusicSelector</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -4969,6 +5084,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -4993,7 +5113,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="155" ty="12" name="" >HaveYourselfLn2</param>
+						<param ix="179" ty="12" name="" >HaveYourselfLn2</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5012,6 +5132,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -5036,7 +5161,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="160" ty="12" name="" >HaveYourselfLn3</param>
+						<param ix="185" ty="12" name="" >HaveYourselfLn3</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5055,6 +5180,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -5079,7 +5209,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="165" ty="12" name="" >HaveYourselfLn4</param>
+						<param ix="191" ty="12" name="" >HaveYourselfLn4</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5097,6 +5227,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -5120,21 +5255,14 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="170" ty="12" name="" >HaveYourselfAdvance</param>
-					</params>
-					<meta/>
-					<gui indent="1" />
-				</ev>
-				<ev name="Delay" ix="51" cline="" >
-					<params>
-						<param ty="13" name="" >00:00:03.00</param>
+						<param ix="197" ty="12" name="" >HaveYourselfAdvance</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
 				</ev>
 				<ev name="Start" cline="" ix="14" >
 					<params>
-						<param ix="39" ty="10" name="" >stopBackgroundMusic</param>
+						<param ix="39" ty="10" >stopBackgroundMusic</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5142,7 +5270,7 @@ dA== -->
 				<ev name="Delay" ix="51" cline="" >
 					<!-- ***b64***TkVYVCBTT05HIERFTEFZ -->
 					<params>
-						<param ty="13" name="" >00:00:03.00</param>
+						<param ty="13" name="" >00:00:01.00</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5156,7 +5284,7 @@ dA== -->
 				</ev>
 				<ev name="Goto" ix="9" cline="" >
 					<params>
-						<param ix="454" ty="12" name="" >End</param>
+						<param ix="532" ty="12" name="" >End</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5197,7 +5325,7 @@ dA== -->
 					<!-- ***b64***U2tpcHMgcGxheWJhY2sgaWYgdmFyaWFibGUgdHJ1ZQ== -->
 					<params>
 						<param ix="130" bx="-1" ax="-1" ty="6" vt="2" name="" >disableVoicelines</param>
-						<param ix="451" ty="12" name="" >SkipVL</param>
+						<param ix="524" ty="12" name="" >SkipVL</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5205,7 +5333,7 @@ dA== -->
 				<ev name="If Off" ix="12" vn="Label" cline="" gid="" >
 					<params>
 						<param ix="29" bx="-1" ax="-1" ty="6" vt="2" name="" >weatherflag</param>
-						<param ix="188" ty="12" name="" >ParadeWoodenLn1</param>
+						<param ix="215" ty="12" name="" >ParadeWoodenLn1</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5230,8 +5358,13 @@ dA== -->
 				<ev name="Goto" ix="9" cline="" >
 					<!-- ***b64***R28gdG8gd2FpdCBhdCBhZHZhbmNlIHVudGlsIGl0IGZpbmlzaGVz -->
 					<params>
-						<param ix="206" ty="12" name="" >ParadeWoodenAdvance</param>
+						<param ix="237" ty="12" name="" >ParadeWoodenAdvance</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -5247,7 +5380,7 @@ RUUgTE9PSyBPVVQ= -->
 				</ev>
 				<ev name="Start" cline="" ix="14" >
 					<params>
-						<param ix="38" ty="10" name="" >BackgroundMusicSelector</param>
+						<param ix="38" ty="10" >BackgroundMusicSelector</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5256,6 +5389,11 @@ RUUgTE9PSyBPVVQ= -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -5280,7 +5418,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="191" ty="12" name="" >ParadeWoodenLn2</param>
+						<param ix="219" ty="12" name="" >ParadeWoodenLn2</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5299,6 +5437,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -5323,7 +5466,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="196" ty="12" name="" >ParadeWoodenLn3</param>
+						<param ix="225" ty="12" name="" >ParadeWoodenLn3</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5342,6 +5485,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.01</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -5366,7 +5514,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="201" ty="12" name="" >ParadeWoodenLn4</param>
+						<param ix="231" ty="12" name="" >ParadeWoodenLn4</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5385,6 +5533,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -5408,21 +5561,14 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="206" ty="12" name="" >ParadeWoodenAdvance</param>
-					</params>
-					<meta/>
-					<gui indent="1" />
-				</ev>
-				<ev name="Delay" ix="51" cline="" >
-					<params>
-						<param ty="13" name="" >00:00:03.00</param>
+						<param ix="237" ty="12" name="" >ParadeWoodenAdvance</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
 				</ev>
 				<ev name="Start" cline="" ix="14" >
 					<params>
-						<param ix="39" ty="10" name="" >stopBackgroundMusic</param>
+						<param ix="39" ty="10" >stopBackgroundMusic</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5430,7 +5576,7 @@ dA== -->
 				<ev name="Delay" ix="51" cline="" >
 					<!-- ***b64***TkVYVCBTT05HIERFTEFZ -->
 					<params>
-						<param ty="13" name="" >00:00:03.00</param>
+						<param ty="13" name="" >00:00:01.00</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5444,7 +5590,7 @@ dA== -->
 				</ev>
 				<ev name="Goto" ix="9" cline="" >
 					<params>
-						<param ix="454" ty="12" name="" >End</param>
+						<param ix="532" ty="12" name="" >End</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5485,7 +5631,7 @@ dA== -->
 					<!-- ***b64***U2tpcHMgcGxheWJhY2sgaWYgdmFyaWFibGUgdHJ1ZQ== -->
 					<params>
 						<param ix="130" bx="-1" ax="-1" ty="6" vt="2" name="" >disableVoicelines</param>
-						<param ix="451" ty="12" name="" >SkipVL</param>
+						<param ix="524" ty="12" name="" >SkipVL</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5493,7 +5639,7 @@ dA== -->
 				<ev name="If Off" ix="12" vn="Label" cline="" gid="" >
 					<params>
 						<param ix="29" bx="-1" ax="-1" ty="6" vt="2" name="" >weatherflag</param>
-						<param ix="224" ty="12" name="" >WinterWonderlandLn1</param>
+						<param ix="255" ty="12" name="" >WinterWonderlandLn1</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5518,8 +5664,13 @@ dA== -->
 				<ev name="Goto" ix="9" cline="" >
 					<!-- ***b64***R28gdG8gd2FpdCBhdCBhZHZhbmNlIHVudGlsIGl0IGZpbmlzaGVz -->
 					<params>
-						<param ix="237" ty="12" name="" >WinterWonderlandAdvance</param>
+						<param ix="279" ty="12" name="" >WinterWonderlandAdvance</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -5532,10 +5683,78 @@ dA== -->
 					<meta/>
 					<gui indent="1" />
 				</ev>
+				<ev name="Start" cline="" ix="14" eb="false" >
+					<params>
+						<param ix="38" ty="10" >BackgroundMusicSelector</param>
+					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
 				<ev name="Delay" cline="" ix="51" >
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="Get Status" ix="35" cline="" dv="port2" dx="2" lb="WinterWonderlandLn2" eb="false" >
+					<params>
+						<param ty="16" name="" >R1</param>
+					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="Delay" ix="51" cline="" eb="false" >
+					<!-- ***b64***U2xvdyBkb3duIGNoZWNrIHJhdGU= -->
+					<params>
+						<param ty="13" name="" >00:00:00.02</param>
+					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="If =" ix="23" cline="" vn="Label" eb="false" >
+					<!-- ***b64***SWYgdGhlIGxhc3QgbGluZSBpcyBzdGlsbCBnb2luZywgbG9vcGJhY2sgdW50aWwgaXRzIG5v
+dA== -->
+					<params>
+						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
+						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
+						<param ix="248" ty="12" name="" >WinterWonderlandLn2</param>
+					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="Delay" cline="" ix="51" eb="false" >
+					<!-- ***b64***U0hPUlQgUEFVU0U= -->
+					<params>
+						<param ty="13" name="" >00:00:01.00</param>
+					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="Play" dv="port2" dx="2" cline="" ix="6" gid="" eb="false" >
+					<!-- ***b64***UExBWSBGRU1BTEUgVEhBVFMgUklHSFQgRE9OIFNBWSBUSFQgQUdBSU4= -->
+					<params>
+						<param name="" ty="16" >R1</param>
+						<param name="" ty="3" >133</param>
+					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="Delay" ix="51" cline="" eb="false" >
+					<!-- ***b64***V2FpdCB0byBzdGFydCBwbGF5aW5n -->
+					<params>
+						<param ty="13" name="" >00:00:00.10</param>
+					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -5560,7 +5779,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="226" ty="12" name="" >WinterWonderlandLn3</param>
+						<param ix="266" ty="12" name="" >WinterWonderlandLn3</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5590,6 +5809,11 @@ dA== -->
 					<meta/>
 					<gui indent="1" />
 				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
+					<meta/>
+					<gui indent="1" />
+				</ev>
 				<ev name="Get Status" ix="35" cline="" dv="port2" dx="2" lb="WinterWonderlandLn4" >
 					<params>
 						<param ty="16" name="" >R1</param>
@@ -5611,7 +5835,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="232" ty="12" name="" >WinterWonderlandLn4</param>
+						<param ix="273" ty="12" name="" >WinterWonderlandLn4</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5629,6 +5853,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -5652,7 +5881,14 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="237" ty="12" name="" >WinterWonderlandAdvance</param>
+						<param ix="279" ty="12" name="" >WinterWonderlandAdvance</param>
+					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="Start" cline="" ix="14" eb="false" >
+					<params>
+						<param ix="39" ty="10" >stopBackgroundMusic</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5660,7 +5896,7 @@ dA== -->
 				<ev name="Delay" ix="51" cline="" >
 					<!-- ***b64***TkVYVCBTT05HIERFTEFZ -->
 					<params>
-						<param ty="13" name="" >00:00:03.00</param>
+						<param ty="13" name="" >00:00:02.00</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5674,7 +5910,7 @@ dA== -->
 				</ev>
 				<ev name="Goto" ix="9" cline="" >
 					<params>
-						<param ix="454" ty="12" name="" >End</param>
+						<param ix="532" ty="12" name="" >End</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5715,7 +5951,7 @@ dA== -->
 					<!-- ***b64***U2tpcHMgcGxheWJhY2sgaWYgdmFyaWFibGUgdHJ1ZQ== -->
 					<params>
 						<param ix="130" bx="-1" ax="-1" ty="6" vt="2" name="" >disableVoicelines</param>
-						<param ix="451" ty="12" name="" >SkipVL</param>
+						<param ix="524" ty="12" name="" >SkipVL</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5723,7 +5959,7 @@ dA== -->
 				<ev name="If Off" ix="12" vn="Label" cline="" gid="" >
 					<params>
 						<param ix="29" bx="-1" ax="-1" ty="6" vt="2" name="" >weatherflag</param>
-						<param ix="253" ty="12" name="" >WizardsWinterLn1</param>
+						<param ix="297" ty="12" name="" >WizardsWinterLn1</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5748,8 +5984,13 @@ dA== -->
 				<ev name="Goto" ix="9" cline="" >
 					<!-- ***b64***R28gdG8gd2FpdCBhdCBhZHZhbmNlIHVudGlsIGl0IGZpbmlzaGVz -->
 					<params>
-						<param ix="266" ty="12" name="" >WizardsWinterAdvance</param>
+						<param ix="314" ty="12" name="" >WizardsWinterAdvance</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -5761,10 +6002,22 @@ dA== -->
 					<meta/>
 					<gui indent="1" />
 				</ev>
+				<ev name="Start" cline="" ix="14" eb="false" >
+					<params>
+						<param ix="38" ty="10" >BackgroundMusicSelector</param>
+					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
 				<ev name="Delay" cline="" ix="51" >
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -5789,7 +6042,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="255" ty="12" name="" >WizardsWinterLn2</param>
+						<param ix="301" ty="12" name="" >WizardsWinterLn2</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5819,6 +6072,11 @@ dA== -->
 					<meta/>
 					<gui indent="1" />
 				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
+					<meta/>
+					<gui indent="1" />
+				</ev>
 				<ev name="Get Status" ix="35" cline="" dv="port2" dx="2" lb="WizardsWinterLn3" >
 					<params>
 						<param ty="16" name="" >R1</param>
@@ -5840,7 +6098,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="261" ty="12" name="" >WizardsWinterLn3</param>
+						<param ix="308" ty="12" name="" >WizardsWinterLn3</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5859,6 +6117,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -5882,7 +6145,14 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="266" ty="12" name="" >WizardsWinterAdvance</param>
+						<param ix="314" ty="12" name="" >WizardsWinterAdvance</param>
+					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="Start" cline="" ix="14" eb="false" >
+					<params>
+						<param ix="39" ty="10" >stopBackgroundMusic</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5890,7 +6160,7 @@ dA== -->
 				<ev name="Delay" ix="51" cline="" >
 					<!-- ***b64***TkVYVCBTT05HIERFTEFZ -->
 					<params>
-						<param ty="13" name="" >00:00:03.00</param>
+						<param ty="13" name="" >00:00:02.00</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5904,7 +6174,7 @@ dA== -->
 				</ev>
 				<ev name="Goto" ix="9" cline="" >
 					<params>
-						<param ix="454" ty="12" name="" >End</param>
+						<param ix="532" ty="12" name="" >End</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5945,7 +6215,7 @@ dA== -->
 					<!-- ***b64***U2tpcHMgcGxheWJhY2sgaWYgdmFyaWFibGUgdHJ1ZQ== -->
 					<params>
 						<param ix="130" bx="-1" ax="-1" ty="6" vt="2" name="" >disableVoicelines</param>
-						<param ix="451" ty="12" name="" >SkipVL</param>
+						<param ix="524" ty="12" name="" >SkipVL</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5953,7 +6223,7 @@ dA== -->
 				<ev name="If Off" ix="12" vn="Label" cline="" gid="" >
 					<params>
 						<param ix="29" bx="-1" ax="-1" ty="6" vt="2" name="" >weatherflag</param>
-						<param ix="282" ty="12" name="" >SleighRideLn1</param>
+						<param ix="332" ty="12" name="" >SleighRideLn1</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -5978,8 +6248,13 @@ dA== -->
 				<ev name="Goto" ix="9" cline="" >
 					<!-- ***b64***R28gdG8gd2FpdCBhdCBhZHZhbmNlIHVudGlsIGl0IGZpbmlzaGVz -->
 					<params>
-						<param ix="289" ty="12" name="" >SleighRideAdvance</param>
+						<param ix="342" ty="12" name="" >SleighRideAdvance</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -5991,10 +6266,22 @@ dA== -->
 					<meta/>
 					<gui indent="1" />
 				</ev>
+				<ev name="Start" cline="" ix="14" eb="false" >
+					<params>
+						<param ix="38" ty="10" >BackgroundMusicSelector</param>
+					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
 				<ev name="Delay" cline="" ix="51" >
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -6019,7 +6306,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="284" ty="12" name="" >SleighRideLn2</param>
+						<param ix="336" ty="12" name="" >SleighRideLn2</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6038,6 +6325,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -6061,7 +6353,14 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="289" ty="12" name="" >SleighRideAdvance</param>
+						<param ix="342" ty="12" name="" >SleighRideAdvance</param>
+					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="Start" cline="" ix="14" eb="false" >
+					<params>
+						<param ix="39" ty="10" >stopBackgroundMusic</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6069,7 +6368,7 @@ dA== -->
 				<ev name="Delay" ix="51" cline="" >
 					<!-- ***b64***TkVYVCBTT05HIERFTEFZ -->
 					<params>
-						<param ty="13" name="" >00:00:03.00</param>
+						<param ty="13" name="" >00:00:02.00</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6083,7 +6382,7 @@ dA== -->
 				</ev>
 				<ev name="Goto" ix="9" cline="" >
 					<params>
-						<param ix="454" ty="12" name="" >End</param>
+						<param ix="532" ty="12" name="" >End</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6124,7 +6423,7 @@ dA== -->
 					<!-- ***b64***U2tpcHMgcGxheWJhY2sgaWYgdmFyaWFibGUgdHJ1ZQ== -->
 					<params>
 						<param ix="130" bx="-1" ax="-1" ty="6" vt="2" name="" >disableVoicelines</param>
-						<param ix="451" ty="12" name="" >SkipVL</param>
+						<param ix="524" ty="12" name="" >SkipVL</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6132,7 +6431,7 @@ dA== -->
 				<ev name="If Off" ix="12" vn="Label" cline="" gid="" >
 					<params>
 						<param ix="29" bx="-1" ax="-1" ty="6" vt="2" name="" >weatherflag</param>
-						<param ix="305" ty="12" name="" >ChristmasStartingLn1</param>
+						<param ix="360" ty="12" name="" >ChristmasStartingLn1</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6157,8 +6456,13 @@ dA== -->
 				<ev name="Goto" ix="9" cline="" >
 					<!-- ***b64***R28gdG8gd2FpdCBhdCBhZHZhbmNlIHVudGlsIGl0IGZpbmlzaGVz -->
 					<params>
-						<param ix="333" ty="12" name="" >ChristmasStartingAdvance</param>
+						<param ix="394" ty="12" name="" >ChristmasStartingAdvance</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -6173,7 +6477,7 @@ dA== -->
 				</ev>
 				<ev name="Start" cline="" ix="14" >
 					<params>
-						<param ix="38" ty="10" name="" >BackgroundMusicSelector</param>
+						<param ix="38" ty="10" >BackgroundMusicSelector</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6182,6 +6486,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -6206,7 +6515,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="308" ty="12" name="" >ChristmasStartingLn2</param>
+						<param ix="364" ty="12" name="" >ChristmasStartingLn2</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6225,6 +6534,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -6249,7 +6563,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="313" ty="12" name="" >ChristmasStartingLn3</param>
+						<param ix="370" ty="12" name="" >ChristmasStartingLn3</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6268,6 +6582,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -6292,7 +6611,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="318" ty="12" name="" >ChristmasStartingLn4</param>
+						<param ix="376" ty="12" name="" >ChristmasStartingLn4</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6311,6 +6630,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -6335,7 +6659,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="323" ty="12" name="" >ChristmasStartingLn5</param>
+						<param ix="382" ty="12" name="" >ChristmasStartingLn5</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6354,6 +6678,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -6378,7 +6707,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="328" ty="12" name="" >ChristmasStartingLn6</param>
+						<param ix="388" ty="12" name="" >ChristmasStartingLn6</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6397,6 +6726,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -6420,21 +6754,14 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="333" ty="12" name="" >ChristmasStartingAdvance</param>
-					</params>
-					<meta/>
-					<gui indent="1" />
-				</ev>
-				<ev name="Delay" ix="51" cline="" >
-					<params>
-						<param ty="13" name="" >00:00:03.00</param>
+						<param ix="394" ty="12" name="" >ChristmasStartingAdvance</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
 				</ev>
 				<ev name="Start" cline="" ix="14" >
 					<params>
-						<param ix="39" ty="10" name="" >stopBackgroundMusic</param>
+						<param ix="39" ty="10" >stopBackgroundMusic</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6442,7 +6769,7 @@ dA== -->
 				<ev name="Delay" ix="51" cline="" >
 					<!-- ***b64***TkVYVCBTT05HIERFTEFZ -->
 					<params>
-						<param ty="13" name="" >00:00:03.00</param>
+						<param ty="13" name="" >00:00:02.00</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6456,12 +6783,17 @@ dA== -->
 				</ev>
 				<ev name="Goto" ix="9" cline="" >
 					<params>
-						<param ix="454" ty="12" name="" >End</param>
+						<param ix="532" ty="12" name="" >End</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
 				</ev>
 				<ev name="End If" cline="" ix="49" >
+					<params/>
+					<meta/>
+					<gui indent="0" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
 					<params/>
 					<meta/>
 					<gui indent="0" />
@@ -6492,7 +6824,7 @@ dA== -->
 					<!-- ***b64***U2tpcHMgcGxheWJhY2sgaWYgdmFyaWFibGUgdHJ1ZQ== -->
 					<params>
 						<param ix="130" bx="-1" ax="-1" ty="6" vt="2" name="" >disableVoicelines</param>
-						<param ix="451" ty="12" name="" >SkipVL</param>
+						<param ix="524" ty="12" name="" >SkipVL</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6500,7 +6832,7 @@ dA== -->
 				<ev name="If Off" ix="12" vn="Label" cline="" gid="" >
 					<params>
 						<param ix="29" bx="-1" ax="-1" ty="6" vt="2" name="" >weatherflag</param>
-						<param ix="350" ty="12" name="" >AllIWantForXmasLn1</param>
+						<param ix="412" ty="12" name="" >AllIWantForXmasLn1</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6525,8 +6857,13 @@ dA== -->
 				<ev name="Goto" ix="9" cline="" >
 					<!-- ***b64***R28gdG8gd2FpdCBhdCBhZHZhbmNlIHVudGlsIGl0IGZpbmlzaGVz -->
 					<params>
-						<param ix="358" ty="12" name="" >AllIWantForXmasAdvance</param>
+						<param ix="422" ty="12" name="" >AllIWantForXmasAdvance</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -6541,7 +6878,7 @@ dA== -->
 				</ev>
 				<ev name="Start" cline="" ix="14" >
 					<params>
-						<param ix="38" ty="10" name="" >BackgroundMusicSelector</param>
+						<param ix="38" ty="10" >BackgroundMusicSelector</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6550,6 +6887,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -6574,7 +6916,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="353" ty="12" name="" >AllIWantForXmasLn2</param>
+						<param ix="416" ty="12" name="" >AllIWantForXmasLn2</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6593,6 +6935,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -6616,21 +6963,14 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="358" ty="12" name="" >AllIWantForXmasAdvance</param>
-					</params>
-					<meta/>
-					<gui indent="1" />
-				</ev>
-				<ev name="Delay" ix="51" cline="" >
-					<params>
-						<param ty="13" name="" >00:00:06.00</param>
+						<param ix="422" ty="12" name="" >AllIWantForXmasAdvance</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
 				</ev>
 				<ev name="Start" cline="" ix="14" >
 					<params>
-						<param ix="39" ty="10" name="" >stopBackgroundMusic</param>
+						<param ix="39" ty="10" >stopBackgroundMusic</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6652,7 +6992,7 @@ dA== -->
 				</ev>
 				<ev name="Goto" ix="9" cline="" >
 					<params>
-						<param ix="454" ty="12" name="" >End</param>
+						<param ix="532" ty="12" name="" >End</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6693,7 +7033,7 @@ dA== -->
 					<!-- ***b64***U2tpcHMgcGxheWJhY2sgaWYgdmFyaWFibGUgdHJ1ZQ== -->
 					<params>
 						<param ix="130" bx="-1" ax="-1" ty="6" vt="2" name="" >disableVoicelines</param>
-						<param ix="451" ty="12" name="" >SkipVL</param>
+						<param ix="524" ty="12" name="" >SkipVL</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6701,7 +7041,7 @@ dA== -->
 				<ev name="If Off" ix="12" vn="Label" cline="" gid="" >
 					<params>
 						<param ix="29" bx="-1" ax="-1" ty="6" vt="2" name="" >weatherflag</param>
-						<param ix="376" ty="12" name="" >WeWishTheMerriestLn1</param>
+						<param ix="440" ty="12" name="" >WeWishTheMerriestLn1</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6726,8 +7066,13 @@ dA== -->
 				<ev name="Goto" ix="9" cline="" >
 					<!-- ***b64***R28gdG8gd2FpdCBhdCBhZHZhbmNlIHVudGlsIGl0IGZpbmlzaGVz -->
 					<params>
-						<param ix="394" ty="12" name="" >WeWishTheMerriestAdvance</param>
+						<param ix="462" ty="12" name="" >WeWishTheMerriestAdvance</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -6741,7 +7086,7 @@ dA== -->
 				</ev>
 				<ev name="Start" cline="" ix="14" >
 					<params>
-						<param ix="38" ty="10" name="" >BackgroundMusicSelector</param>
+						<param ix="38" ty="10" >BackgroundMusicSelector</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6750,6 +7095,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -6774,7 +7124,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="379" ty="12" name="" >WeWishTheMerriestLn2</param>
+						<param ix="444" ty="12" name="" >WeWishTheMerriestLn2</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6793,6 +7143,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -6817,7 +7172,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="384" ty="12" name="" >WeWishTheMerriestLn3</param>
+						<param ix="450" ty="12" name="" >WeWishTheMerriestLn3</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6835,6 +7190,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -6859,7 +7219,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="389" ty="12" name="" >WeWishTheMerriestLn4</param>
+						<param ix="456" ty="12" name="" >WeWishTheMerriestLn4</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6878,6 +7238,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -6901,21 +7266,14 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="394" ty="12" name="" >WeWishTheMerriestAdvance</param>
-					</params>
-					<meta/>
-					<gui indent="1" />
-				</ev>
-				<ev name="Delay" ix="51" cline="" >
-					<params>
-						<param ty="13" name="" >00:00:03.00</param>
+						<param ix="462" ty="12" name="" >WeWishTheMerriestAdvance</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
 				</ev>
 				<ev name="Start" cline="" ix="14" >
 					<params>
-						<param ix="39" ty="10" name="" >stopBackgroundMusic</param>
+						<param ix="39" ty="10" >stopBackgroundMusic</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6923,7 +7281,7 @@ dA== -->
 				<ev name="Delay" ix="51" cline="" >
 					<!-- ***b64***TkVYVCBTT05HIERFTEFZ -->
 					<params>
-						<param ty="13" name="" >00:00:03.00</param>
+						<param ty="13" name="" >00:00:02.00</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6937,7 +7295,7 @@ dA== -->
 				</ev>
 				<ev name="Goto" ix="9" cline="" >
 					<params>
-						<param ix="454" ty="12" name="" >End</param>
+						<param ix="532" ty="12" name="" >End</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6978,7 +7336,7 @@ dA== -->
 					<!-- ***b64***U2tpcHMgcGxheWJhY2sgaWYgdmFyaWFibGUgdHJ1ZQ== -->
 					<params>
 						<param ix="130" bx="-1" ax="-1" ty="6" vt="2" name="" >disableVoicelines</param>
-						<param ix="451" ty="12" name="" >SkipVL</param>
+						<param ix="524" ty="12" name="" >SkipVL</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -6986,7 +7344,7 @@ dA== -->
 				<ev name="If Off" ix="12" vn="Label" cline="" gid="" >
 					<params>
 						<param ix="29" bx="-1" ax="-1" ty="6" vt="2" name="" >weatherflag</param>
-						<param ix="412" ty="12" name="" >TheChristmasTreeLn1</param>
+						<param ix="480" ty="12" name="" >TheChristmasTreeLn1</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -7011,8 +7369,13 @@ dA== -->
 				<ev name="Goto" ix="9" cline="" >
 					<!-- ***b64***R28gdG8gd2FpdCBhdCBhZHZhbmNlIHVudGlsIGl0IGZpbmlzaGVz -->
 					<params>
-						<param ix="431" ty="12" name="" >TheChristmasTreeAdvance</param>
+						<param ix="503" ty="12" name="" >TheChristmasTreeAdvance</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -7026,7 +7389,7 @@ dA== -->
 				</ev>
 				<ev name="Start" cline="" ix="14" >
 					<params>
-						<param ix="38" ty="10" name="" >BackgroundMusicSelector</param>
+						<param ix="38" ty="10" >BackgroundMusicSelector</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -7035,6 +7398,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -7059,7 +7427,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="415" ty="12" name="" >TheChristmasTreeLn2</param>
+						<param ix="484" ty="12" name="" >TheChristmasTreeLn2</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -7078,6 +7446,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -7102,7 +7475,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="420" ty="12" name="" >TheChristmasTreeLn3</param>
+						<param ix="490" ty="12" name="" >TheChristmasTreeLn3</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -7120,6 +7493,11 @@ dA== -->
 					<params>
 						<param ty="13" name="" >00:00:00.10</param>
 					</params>
+					<meta/>
+					<gui indent="1" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="1" />
 				</ev>
@@ -7144,7 +7522,7 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="425" ty="12" name="" >TheChristmasTreeLn4</param>
+						<param ix="496" ty="12" name="" >TheChristmasTreeLn4</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -7173,6 +7551,11 @@ dA== -->
 					<meta/>
 					<gui indent="1" />
 				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
+					<meta/>
+					<gui indent="1" />
+				</ev>
 				<ev name="Get Status" ix="35" cline="" dv="port2" dx="2" lb="TheChristmasTreeAdvance" >
 					<params>
 						<param ty="16" name="" >R1</param>
@@ -7193,21 +7576,14 @@ dA== -->
 					<params>
 						<param ty="6" vt="5" ix="4" dx="2" bx="-1" ax="-1" name="" >port2.StatusR1L</param>
 						<param ix="-1" bx="-1" ax="-1" ty="14" name="" >&quot;Playing&quot;</param>
-						<param ix="431" ty="12" name="" >TheChristmasTreeAdvance</param>
-					</params>
-					<meta/>
-					<gui indent="1" />
-				</ev>
-				<ev name="Delay" ix="51" cline="" >
-					<params>
-						<param ty="13" >00:00:03.00</param>
+						<param ix="503" ty="12" name="" >TheChristmasTreeAdvance</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
 				</ev>
 				<ev name="Start" cline="" ix="14" >
 					<params>
-						<param ix="39" ty="10" name="" >stopBackgroundMusic</param>
+						<param ix="39" ty="10" >stopBackgroundMusic</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -7229,7 +7605,7 @@ dA== -->
 				</ev>
 				<ev name="Goto" ix="9" cline="" >
 					<params>
-						<param ix="454" ty="12" name="" >End</param>
+						<param ix="532" ty="12" name="" >End</param>
 					</params>
 					<meta/>
 					<gui indent="1" />
@@ -7249,6 +7625,18 @@ dA== -->
 					<params>
 						<param name="" ty="16" >R5</param>
 						<param name="" ty="3" >1023</param>
+					</params>
+					<meta/>
+					<gui indent="0" />
+				</ev>
+				<ev name="Disable SMPTE" tm="00:00.20" dv="port2" dx="2" cline="" ix="28" eb="false" >
+					<params/>
+					<meta/>
+					<gui indent="0" />
+				</ev>
+				<ev name="Goto" ix="9" cline="" eb="false" >
+					<params>
+						<param ix="470" ty="12" name="" >End</param>
 					</params>
 					<meta/>
 					<gui indent="0" />
@@ -7284,7 +7672,7 @@ dA== -->
 				</ev>
 				<ev name="Goto" tm="00:08.21" ix="9" cline="" >
 					<params>
-						<param ix="454" ty="12" name="" >End</param>
+						<param ix="532" ty="12" name="" >End</param>
 					</params>
 					<meta/>
 					<gui indent="0" />
@@ -7305,7 +7693,7 @@ dA== -->
 				</ev>
 				<ev name="Goto" tm="00:11.00" ix="9" cline="" >
 					<params>
-						<param ix="454" ty="12" name="" >End</param>
+						<param ix="532" ty="12" name="" >End</param>
 					</params>
 					<meta/>
 					<gui indent="0" />
@@ -7331,8 +7719,43 @@ dA== -->
 				</ev>
 				<ev name="Goto" dx="0" cline="" ix="9" >
 					<params>
-						<param ix="454" ty="12" name="" >End</param>
+						<param ix="532" ty="12" name="" >End</param>
 					</params>
+					<meta/>
+					<gui indent="0" />
+				</ev>
+				<ev name="On" cline="" ix="0" lb="Advance" eb="false" >
+					<!-- ***b64***QWR2YW5jZSB0byBuZXh0IHNvbmc= -->
+					<params>
+						<param ix="15" dx="0" bx="-1" ax="-1" ty="8" name="" >output16</param>
+					</params>
+					<meta/>
+					<gui indent="0" />
+				</ev>
+				<ev name="Delay" ix="51" cline="" eb="false" >
+					<!-- ***b64***QWR2YW5jZSBCdXR0b24gSG9sZCBUaW1l -->
+					<params>
+						<param ty="13" name="" >00:00:01.00</param>
+					</params>
+					<meta/>
+					<gui indent="0" />
+				</ev>
+				<ev name="Off" cline="" ix="1" eb="false" >
+					<params>
+						<param ix="15" dx="0" bx="-1" ax="-1" ty="8" name="" >output16</param>
+					</params>
+					<meta/>
+					<gui indent="0" />
+				</ev>
+				<ev name="Goto" ix="9" cline="" eb="false" >
+					<params>
+						<param ix="474" ty="12" name="" >End</param>
+					</params>
+					<meta/>
+					<gui indent="0" />
+				</ev>
+				<ev name="" cline="" ix="-1" >
+					<params/>
 					<meta/>
 					<gui indent="0" />
 				</ev>
@@ -7341,8 +7764,13 @@ dA== -->
 					<meta/>
 					<gui indent="0" />
 				</ev>
+				<ev name="" ix="-1" cline="" >
+					<params/>
+					<meta/>
+					<gui indent="0" />
+				</ev>
 				<gui>
-					<window col_widths="30,23,22,126,73,55,108,134,90,108,100,764," />
+					<window col_widths="30,23,22,145,73,55,108,134,90,108,100,745," />
 				</gui>
 			</evs>
 			<triggers/>
@@ -9699,7 +10127,7 @@ KQ== -->
 				<ev name="Delay" cline="" ix="51" >
 					<!-- ***b64***V2FpdCBVbnRpbCBGdWxseSBPZmYgQmVmb3JlIFN0YXJ0aW5nIFBsYXliYWNr -->
 					<params>
-						<param ty="13" name="" >00:00:01.00</param>
+						<param ty="13" name="" >00:00:01.15</param>
 					</params>
 					<meta/>
 					<gui indent="0" />
@@ -10070,7 +10498,7 @@ KQ== -->
 					<gui indent="0" />
 				</ev>
 				<gui>
-					<window col_widths="30,20,20,,,,,,100,,100,904," />
+					<window col_widths="30,20,20,,,,,,100,,100,337," />
 				</gui>
 			</evs>
 			<triggers>
@@ -19689,24 +20117,6 @@ ZWxzZSBzZXQgc2FtZSBtb25v -->
 					<window col_widths="0,0,0,0,0,0,,1176,0," />
 				</gui>
 			</evs>
-			<triggers/>
-			<grps/>
-			<mks/>
-		</seq>
-		<seq name="Default" >
-			<evs/>
-			<triggers/>
-			<grps/>
-			<mks/>
-		</seq>
-		<seq name="Default" >
-			<evs/>
-			<triggers/>
-			<grps/>
-			<mks/>
-		</seq>
-		<seq name="Default" >
-			<evs/>
 			<triggers/>
 			<grps/>
 			<mks/>
